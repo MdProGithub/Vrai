@@ -16,3 +16,7 @@ code {
   color: aqua;
   border-radius: 4%;
 }
+
+.border {
+  border: 2px solid black;
+}
