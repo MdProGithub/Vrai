@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          lets go the codeok
+          lets go the c
 
           dddd
         </p>
