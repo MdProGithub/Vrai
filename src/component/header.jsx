@@ -1,8 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
-import Footerpage from './component/footer.jsx';
-
-function App() {
+const header = () => {
   return (
     <div>
       <div className='text-center flex'>
@@ -20,4 +16,4 @@ function App() {
 
 
 
-export default App;
+export default header;
