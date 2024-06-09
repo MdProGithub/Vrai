@@ -1,12 +1,15 @@
 const header = () => {
   return (
     <div>
-      <div className='text-center flex'>
-          <img></img>
-          <div>
-            <a></a>
-            <a></a>
-            <a></a>
+      <div className='container'>
+          <div className="">
+            <img src="" alt=""/>
+          </div>
+          
+          <div className="">
+            <a>Accueil</a>
+            <a>Formules</a>
+            <a>Service</a>
           </div>
       </div>
     
